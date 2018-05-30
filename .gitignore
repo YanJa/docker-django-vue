@@ -1,0 +1,11 @@
+#Files
+*.pyc
+*.swp
+./src/db.sqlite3
+
+
+# Directories
+./src/static/*
+*/__pycache__
+vdocker-django/
+
